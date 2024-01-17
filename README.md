@@ -15,7 +15,7 @@
 ## 项目导师
 
 - 连志安 [https://gitee.com/lianzhian](https://gitee.com/lianzhian) 
-- email [lian_zhian@runkaihong.com.cn](mailto:lian_zhian@runkaihong.com.cn)
+- email 120515692@qq.com
 
 ## 难度
 
